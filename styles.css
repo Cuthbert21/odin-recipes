@@ -1,0 +1,33 @@
+body {
+    font-family: "Times New Roman", serif;
+    text-align: center;
+    background-color: beige;
+}
+
+h1 {
+    background-color: white;
+    color: red;
+}
+
+h3 { 
+    background-color: white;
+    color: red;
+}
+
+.main-page { 
+    font-size: 28px;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+    background-color: white;
+}
+
+ol {
+    text-align: justify;
+}
+
+.red {
+    background-color: red;
+}
