@@ -7,11 +7,21 @@ body {
 h1 {
     background-color: white;
     color: red;
+    border: 2px solid black;
+    border-radius: 5px;
 }
 
 h3 { 
     background-color: white;
     color: red;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+}
+
+img { 
+    border: 2px solid black;
+    border-radius: 5px;
 }
 
 .main-page { 
@@ -21,18 +31,32 @@ h3 {
 .non-main-list {
     display: inline-block;
     text-align: left;
+    border: 2px solid black;
+    border-radius: 5px;
 }
 
 ul {
     text-align: center;
     list-style-position: inside;
     background-color: white;
+    padding-inline-start: 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
 }
 
 ol {
     text-align: justify;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+li {
+    margin: 5px;
 }
 
 .red {
     background-color: red;
+    margin: 0;
 }
