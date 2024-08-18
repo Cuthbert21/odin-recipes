@@ -60,3 +60,7 @@ li {
     background-color: red;
     margin: 0;
 }
+
+a {
+    text-decoration: none;
+}
